@@ -11,7 +11,7 @@
 .logo {
     padding-top: 10px;
     margin-left: 10px;
-    width: 25%;
+    width: 10%;
 }
 
 main {
@@ -126,12 +126,12 @@ main {
 
 @media screen and (max-width: 780px){
     .logo {
-        width: 15%;
+        width: 25%;
         position: relative;
         margin-left: 170px;
     }
 
-    main {
+    main {  
         display: flex;
         flex-direction: column;
         align-items: center;
